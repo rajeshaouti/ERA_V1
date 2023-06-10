@@ -18,7 +18,7 @@ The solution to identifying the right architecture that achieves the accuracy of
 
   number of epochs -20
 
-  accuracy - 99.47 % -
+  accuracy - 99% 
 
 ----------------------------------------
 **Code Link**
